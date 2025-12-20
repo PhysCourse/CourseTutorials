@@ -10,5 +10,5 @@
     pip install mkdocs-material
 ```
 
-??? Superfence
+!!! info "Superfence"
     Text in superfence
