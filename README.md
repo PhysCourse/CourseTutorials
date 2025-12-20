@@ -4,7 +4,11 @@
 
 ## Установка
 
+- Установка пакета mkdocs и расширения material
 ```bash
     pip install mkdocs
     pip install mkdocs-material
 ```
+
+??? Superfence
+    Text in superfence
